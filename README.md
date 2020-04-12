@@ -10,6 +10,7 @@ It produces plots and maps to understand the effects of the virus worldwide.
 * pandas
 * matplotlib
 * geopandas
+* Bokeh
 
 ### Sources
 1. [EU Open Data Portal - COVID-19 Coronavirus Data ](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
